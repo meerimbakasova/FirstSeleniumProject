@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>.git/hooks/.gitignore</name>
+			<type>1</type>
+			<locationURI>.gitignore</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
